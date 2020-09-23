@@ -1,5 +1,6 @@
 ## To run:
 run tests: `dotnet test`
+
 run API: `dotnet run -p ./MessageAPI`
 
 ## Tradeoffs:
